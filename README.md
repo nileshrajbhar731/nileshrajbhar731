@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nileshrajbhar731" alt="nileshrajbhar731" /></a> </p>
 
-- 🔭 I’m currently working on [my portfolio](nileshrajbhar731.github.io)
+- 🔭 I’m currently working on [my portfolio](https://nileshrajbhar731.github.io/)
 
 - 🌱 I’m currently learning **laravel 8 PHP Framework**
 
-- 👨‍💻 All of my projects are available at [nileshrajbhar731.github.io](nileshrajbhar731.github.io)
+- 👨‍💻 All of my projects are available at [nileshrajbhar731.github.io](https://nileshrajbhar731.github.io/)
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
