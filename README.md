@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nilesh Bhardwaj</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshrajbhar731&label=Profile%20views&color=0e75b6&style=flat" alt="nileshrajbhar731" /> </p>
 
@@ -7,13 +7,9 @@
 
 - 🔭 I’m currently working on [my portfolio](https://nileshrajbhar731.github.io/)
 
-- 🌱 I’m currently learning **laravel 8 PHP Framework**
+- 🌱 I’m currently learning **laravel 10 PHP Framework**
 
 - 👨‍💻 All of my projects are available at [nileshrajbhar731.github.io](https://nileshrajbhar731.github.io/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
